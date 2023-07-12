@@ -30,8 +30,7 @@ Fig. 1 displays the ability of the SMACNP to capture spatial relationships on a 
 Fig. 1(a) displays the ground truth in the test set, while the prediction maps produced by SMACNP
 for various division ratios of the training set are shown in Fig. 1(b) and Fig. 1(c).
 
-F:\CNP_Variance\generation_github
-![Uploading ./Fig4a.png…]()
+![Figure](https://github.com/bll744958765/SMACNP/assets/92556725/d98a331f-6e34-43a5-802a-ee53e27a51e7)
 
 
 
