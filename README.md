@@ -28,8 +28,14 @@ Then, you can run train_smacnp to implement the experiment.
 Last, you can run test_smacnp to show the prediction performance.
 Fig. 1 displays the ability of the SMACNP to capture spatial relationships on a simulated dataset.
 Fig. 1(a) displays the ground truth in the test set, while the prediction maps produced by SMACNP
-for various division ratios of the training set are shown in Fig. 1(b) and Fig. 1(c)
-[![沙漠中的岩石图片](F:\CNP_Variance\Latex Source file\Figure\Fig4a.png)]
+for various division ratios of the training set are shown in Fig. 1(b) and Fig. 1(c).
+
+
+![Uploading F:\CNP_Variance\generation_github\Fig4a.png…]()
+
+
+
+
 ## 
   * [Conditional Neural Process] (Attentive Neural Processes)
   * The code is rewritten from the Tensorflow implementation provided by Deep Mind to the PyTorch implementation
