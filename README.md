@@ -1,4 +1,9 @@
 # Spatial Multi-attention Conditional Neural Process.
+Li-Li Bao, Jiang-She Zhang, Chun-Xia Zhang
+
+This code implemented by Li-Li Bao for Spatial Multi-attention Conditional Neural Process is based on PyTorch 1.11.0 python 3.8.
+GPU is NVIDIA GeForce RTX 3080.
+
 
 PyTorch for Spatial Multi-attention Conditional Neural Process.
 
