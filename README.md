@@ -21,6 +21,11 @@ is beneficial for the model to provide robust estimates.
 ## Dataset and Experiment
 We validated the superiority of the proposed method on one simulation dataset and 3 real-world data sets using different ratios of training and testing sets. To demonstrate the stability of SMACNP, we recorded the mean and standard deviation of the outcomes of 10 experiments. The model is assessed by MAE (Mean Absolute Error), and RMSE (Root Mean Squared Error). 
 
+## Implementation of SMACNP on simulation dataset
+You can run data_split.py first to spilt generation_data_noise.csv into train.csv and valid.csv.
+generation_data_noise1.csv is a new simulation data set that can be used to test the performance of SMANP. 
+Then, you can run train_smacnp to implement the experiment.
+Last, you can run test_smacnp to show the prediction performance.
 ## 
   * [Conditional Neural Process] (Attentive Neural Processes)
   * The code is rewritten from the Tensorflow implementation provided by Deep Mind to the PyTorch implementation
