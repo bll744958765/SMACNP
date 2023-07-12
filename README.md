@@ -26,6 +26,10 @@ You can run data_split.py first to spilt generation_data_noise.csv into train.cs
 generation_data_noise1.csv is a new simulation data set that can be used to test the performance of SMANP. 
 Then, you can run train_smacnp to implement the experiment.
 Last, you can run test_smacnp to show the prediction performance.
+Fig. 1 displays the ability of the SMACNP to capture spatial relationships on a simulated dataset.
+Fig. 1(a) displays the ground truth in the test set, while the prediction maps produced by SMACNP
+for various division ratios of the training set are shown in Fig. 1(b) and Fig. 1(c)
+
 ## 
   * [Conditional Neural Process] (Attentive Neural Processes)
   * The code is rewritten from the Tensorflow implementation provided by Deep Mind to the PyTorch implementation
