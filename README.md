@@ -6,9 +6,9 @@ GPU is NVIDIA GeForce RTX 3080.
 
 The main contributions of this paper are as follows:
 1. We propose a spatial prediction model, named SMACNP, where we design an auto-encoder module that is associated with GPs and NNs for spatial small sample prediction. Our method learns a specific joint embedding between the geographic coordinates and potential other inputs (i.e., explanatory features), having the advantage of making good predictions of targets and evaluating the reliability of prediction results.
-2, The approach derives the mean and variance of GPs from two modules to predict the distribution of targets. In particular, inspired by GPs, the proposed method quantifies uncertainty that is only related to the input of the target point and not to the output target value, which
+2. The approach derives the mean and variance of GPs from two modules to predict the distribution of targets. In particular, inspired by GPs, the proposed method quantifies uncertainty that is only related to the input of the target point and not to the output target value, which
 is beneficial for the model to provide robust estimates.
-3. Based on the experiments implemented on simulation datasets and real-world datasets to examine and compare SMACNP with other methods, it is shown to perform best in spatial small sample prediction tasks.
+3. Based on the experiments implemented on simulation datasets and real-world datasets to examine and compare SMACNP with other methods, it is shown to perform best in spatial small sample prediction tasks.
 
 
 ## 
